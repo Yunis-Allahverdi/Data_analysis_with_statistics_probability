@@ -29,5 +29,5 @@ This repository demonstrates how to apply Descriptive Statistics and Probability
    - Implementing Bernoulli Distribution to **category, title_deed and repair** variables.
    - Implementing Categorical Distribution to **room_number, region** variables.
    - Implementing Gaussian Distribution to **area** variable.
-   - Calculating the skewness and kurtosis of **area** variable and Interpretation
+   - Calculating the skewness and kurtosis of **area** variable and interpretation
 
